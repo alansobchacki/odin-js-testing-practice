@@ -1,0 +1,6 @@
+/* global settings to make things work */
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}

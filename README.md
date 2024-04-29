@@ -1,1 +1,0 @@
-# odin-js-testing-practice
