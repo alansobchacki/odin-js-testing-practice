@@ -21,4 +21,4 @@ Build tests for the following functions, and then make the tests pass:
 What I Learned
 -----
 
-TDD wasn't a new concept for me since I started my coding journey with the Ruby curriculum. However, I did learn how to set up Jest for my projects, and honestly, Jest felt MUCh easier than Rspec.
+TDD wasn't a new concept for me since I started my coding journey with the Ruby curriculum. However, I did learn how to set up Jest for my projects, and honestly, Jest felt much easier than Rspec. 
