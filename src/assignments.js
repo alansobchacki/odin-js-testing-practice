@@ -4,9 +4,7 @@ function capitalize(string) {
     return `Error - ${string} is not a string.`;
   }
 
-  const capitalizedString = string.charAt(0).toUpperCase() + string.slice(1);
-
-  return capitalizedString;
+  return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
 // A reverseString function that takes a string and returns it reversed.
