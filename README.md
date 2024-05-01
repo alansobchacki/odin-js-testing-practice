@@ -4,9 +4,9 @@ A bunch of functions built following TDD principles.
 
 To run this:
 
-1 - Clone this directory,
-2 - Open your terminal (assuming you are using Linux or WSL) and `cd` to the directory
-3 - Run `npm test` and watch the magic happen.
+1 - Clone this directory,  
+2 - Open your terminal (assuming you are using Linux or WSL) and `cd` to the directory  
+3 - Run `npm test` and watch the magic happen.  
 
 ## About
 
