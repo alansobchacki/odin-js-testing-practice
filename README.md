@@ -1,10 +1,14 @@
-Project: Testing Practice
-=============
+# Project: Testing Practice
 
 A bunch of functions built following TDD principles.
 
-About
------
+To run this:
+
+1 - Clone this directory,
+2 - Open your terminal (assuming you are using Linux or WSL) and `cd` to the directory
+3 - Run `npm test` and watch the magic happen.
+
+## About
 
 This project was completed as part of [The Odin Project](https://www.theodinproject.com/) [Javascript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) curriculum. It is the eleventh project required for completion of the JavaScript Course [11/12].
 
@@ -18,7 +22,6 @@ Build tests for the following functions, and then make the tests pass:
 - [x] A `caesarCipher(string, shiftValue)` function that takes a string and a shift factor and returns it with each character “shifted”
 - [x] An `analyzeArray(array)` function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
-What I Learned
------
+## What I Learned
 
-TDD wasn't a new concept for me since I started my coding journey with the Ruby curriculum. However, I did learn how to set up Jest for my projects, and honestly, Jest felt much easier than Rspec. 
+TDD wasn't a new concept for me since I started my coding journey with the Ruby curriculum. However, I did learn how to set up Jest for my projects, and honestly, Jest felt much easier than Rspec.
