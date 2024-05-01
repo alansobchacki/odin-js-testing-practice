@@ -4,10 +4,10 @@ A bunch of functions built following TDD principles.
 
 To run this:
 
-0 - You need Linux (or WSL), Node.js, and Jest installed on your local machine  
-1 - Clone this directory   
-2 - Open your terminal and `cd` to the cloned directory folder  
-3 - Run `npm test` and watch the magic happen.  
+0 - You need Linux (or WSL), Node.js, and Jest installed on your local machine;  
+1 - Clone this directory;  
+2 - Open your terminal and `cd` to the cloned directory folder;  
+3 - Run `npm test` and watch the magic happen.   
 
 ## About
 
